@@ -66,17 +66,6 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtrivedi4480-cyber&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshtrivedi4480-cyber&theme=onestar&no-frame=true"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
 
 ## 📜 Certifications
 
