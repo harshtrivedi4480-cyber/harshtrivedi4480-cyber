@@ -94,17 +94,6 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 
 ---
 
-## 💼 Experience
-
-### **BPO Recruiter – CSO**
-**March 2024 – February 2025 | Udaipur**
-
-- Managed candidate data using ATS tools
-- Conducted candidate screening and interviews
-- Improved communication and client handling skills
-- Worked in a fast-paced professional environment
-
----
 
 ## 📫 Connect with Me
 
