@@ -5,7 +5,7 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Aspiring+Full+Stack+Developer;Java+%7C+HTML+%7C+CSS+Enthusiast;Always+Learning+%26+Building+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Aspiring+Full+Stack+Developer;Java+%7C+HTML+%7C+CSS+Enthusiast;Always+Learning+%26+Building+Projects"/>
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
@@ -55,15 +55,15 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshtrivedi4480-cyber&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshtrivedi4480-cyber&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshtrivedi4480-cyber&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshtrivedi4480-cyber&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtrivedi4480-cyber&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtrivedi4480-cyber&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshtrivedi4480-cyber&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshtrivedi4480-cyber&theme=radical&no-frame=true"/>
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
@@ -94,6 +94,17 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 
 ---
 
+## 💼 Experience
+
+### **BPO Recruiter – CSO**
+**March 2024 – February 2025 | Udaipur**
+
+- Managed candidate data using ATS tools
+- Conducted candidate screening and interviews
+- Improved communication and client handling skills
+- Worked in a fast-paced professional environment
+
+---
 
 ## 📫 Connect with Me
 
@@ -119,6 +130,82 @@ B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kot
 - 🌐 **GitHub:** https://github.com/harshtrivedi4480-cyber
 - 💼 **LinkedIn:** https://www.linkedin.com/in/harsh-dev-6b9725393
 - 📷 **Instagram:** @_pov.harsh_009
+
+---
+
+## 💡 Pro Tips
+
+### 🔹 Username Must Match Exactly
+
+Your GitHub Profile README repository **must be named exactly**:
+
+```text
+harshtrivedi4480-cyber
+```
+
+Use this exact username in:
+
+- 📊 GitHub Stats
+- 🔥 GitHub Streak
+- 📈 Top Languages
+- 🏆 GitHub Trophies
+
+> ⚠️ Even one typo will break the cards.
+
+---
+
+### 🎨 Customize the Theme
+
+Replace:
+
+```text
+theme=tokyonight
+```
+
+with your favorite theme:
+
+- ❤️ `radical` *(Recommended)*
+- 🌙 `dark`
+- 💚 `merko`
+- 🌿 `gruvbox`
+
+---
+
+### 📄 Upload Resume as PDF
+
+A PDF resume helps accurately extract:
+
+- 🎓 Education
+- 💻 Skills
+- 🚀 Projects
+- 📜 Certifications
+- 💼 Experience
+- 🏅 Achievements
+
+This results in a more accurate GitHub Profile README.
+
+---
+
+### 👀 Preview Before Committing
+
+Preview your README before pushing to GitHub:
+
+- 🌐 https://readme.so
+- 🌐 https://dillinger.io
+
+---
+
+### 🚀 Keep Your README Updated
+
+Keep your profile fresh by updating it whenever you:
+
+- ✅ Complete a new project
+- ✅ Learn a new technology
+- ✅ Earn a certification
+- ✅ Improve your portfolio
+- ✅ Reach a new milestone
+
+> 💼 Recruiters regularly review GitHub profiles. An updated README highlights your skills and continuous growth.
 
 ---
 
