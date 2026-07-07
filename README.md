@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
+ <h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
 
 <h3 align="center">
 B.Tech Computer Science Student (3rd Year) | Rajasthan Technical University, Kota | DSA Enthusiast
