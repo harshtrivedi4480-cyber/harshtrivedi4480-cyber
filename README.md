@@ -83,13 +83,7 @@ fun_fact: "I debug faster with chai ☕ in hand"
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshtrivedi4480-cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-</div>
-
-<br/>
 
 ## 🌟 Featured Projects
 
