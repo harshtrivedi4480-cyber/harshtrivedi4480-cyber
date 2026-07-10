@@ -95,24 +95,21 @@ fun_fact: "I debug faster with chai ☕ in hand"
 
 <div align="center">
 
-<a href="https://github.com/harshtrivedi4480-cyber">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=Mini-JSON-Database&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
+<a href="https://github.com/harshtrivedi4480-cyber/harshtrivedi4480-cyber-harshtrivedi4480-cyber-Harsh-Responsive-Portfolio-Experience-A">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=harshtrivedi4480-cyber-harshtrivedi4480-cyber-Harsh-Responsive-Portfolio-Experience-A&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
 </a>
-<a href="https://github.com/harshtrivedi4480-cyber">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=Personal-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
+<a href="https://github.com/harshtrivedi4480-cyber/harshtrivedi4480-cyber.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=harshtrivedi4480-cyber.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
 </a>
 <br/>
-<a href="https://github.com/harshtrivedi4480-cyber">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=Expense-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
+<a href="https://github.com/harshtrivedi4480-cyber/finance-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=finance-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
 </a>
-<a href="https://github.com/harshtrivedi4480-cyber">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=Java-OOP-Mini-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
+<a href="https://github.com/harshtrivedi4480-cyber/java-oop-mini-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshtrivedi4480-cyber&repo=java-oop-mini-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9A7" />
 </a>
 
 </div>
-
-> 💡 **Note:** Pinned cards render only if the repo name matches exactly & is public. Rename or pin your top 4 repos on GitHub to see them light up here.
-
 <br/>
 
 ## 🐍 Contribution Snake
