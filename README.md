@@ -118,7 +118,6 @@ fun_fact: "I debug faster with chai ☕ in hand"
 <img src="https://raw.githubusercontent.com/harshtrivedi4480-cyber/harshtrivedi4480-cyber/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ Ye chalane ke liye niche wali workflow file bhi setup karni hogi (ek baar ki setting, phir automatic).
 
 <br/>
 
