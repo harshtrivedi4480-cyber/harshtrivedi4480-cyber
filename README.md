@@ -98,6 +98,49 @@ fun_fact: "Ek chai ☕ aur ek bug — dono ek saath solve hote hain"
 <img src="https://raw.githubusercontent.com/harshtrivedi4480-cyber/harshtrivedi4480-cyber/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+
+          # Base stats
+          base: header, activity, community, repositories, metadata
+
+          # Plugins - these make it unique
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 14
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_calendar: yes
+
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          config_timezone: Asia/Kolkata
 
 ## 🤝 Let's Connect
 
