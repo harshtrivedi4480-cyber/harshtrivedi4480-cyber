@@ -98,15 +98,6 @@ fun_fact: "Ek chai ☕ aur ek bug — dono ek saath solve hote hain"
 <img src="https://raw.githubusercontent.com/harshtrivedi4480-cyber/harshtrivedi4480-cyber/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<br/>
-
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshtrivedi4480-cyber&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
