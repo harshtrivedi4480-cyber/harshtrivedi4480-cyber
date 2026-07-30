@@ -126,3 +126,5 @@ fun_fact: "Ek chai ☕ aur ek bug — dono ek saath solve hote hain"
 *⭐️ Thanks for stopping by — feel free to explore my repos, star what you like, and let's build something together!*
 
 </div>
+<!-- file: assets/new-badge.svg -->
+<img src="/assets/new-badge.svg" alt="NEW badge" width="60" height="24">
