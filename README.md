@@ -1,16 +1,14 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hi%20There,%20I'm%20Harsh!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20Building%20Scalable%20Web%20Apps&descAlignY=62&descSize=18" width="100%"/> <a href="https://github.com/harshtrivedi4480-cyber">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Full-Stack%20Web%20Developer+%7C+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Architecting%20Robust%20APIs+%26%20Lightning-Fast%20UIs;Turning%20Complex%20Problems%20Into%20Production-Ready%20Code" alt="Typing SVG" />
-</a>
-
-
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=harshtrivedi4480-cyber&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/harshtrivedi4480-cyber?label=Followers&style=for-the-badge&color=2C5364" alt="followers"/>
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-brightgreen?style=for-the-badge" alt="role"/>
-<img src="https://img.shields.io/badge/Location-Udaipur,%20India-blueviolet?style=for-the-badge" alt="location"/> </div>   
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20There,%20I'm%20Harsh!%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20|%20Scalable%20Systems%20&%20Modern%20UIs&descAlignY=65&descSize=16" width="100%"/> <p align="center">
+<a href="https://github.com/harshtrivedi4480-cyber">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&lines=Full-Stack+Web+Developer+%E2%80%A2+React+19+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+Express+%E2%80%A2+tRPC+%E2%80%A2+MySQL;Architecting+Robust+APIs+%26+Lightning-Fast+UIs;Turning+Complex+Problems+Into+Production-Ready+Code" alt="Typing SVG" />
+  </a>
+</p>   
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshtrivedi4480-cyber&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/harshtrivedi4480-cyber?label=Followers&style=for-the-badge&color=2C5364" alt="followers"/>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-brightgreen?style=for-the-badge" alt="role"/>
+  <img src="https://img.shields.io/badge/Location-Udaipur,%20India-blueviolet?style=for-the-badge" alt="location"/>
+</p> </div>   
 
 
 
