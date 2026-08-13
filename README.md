@@ -1,5 +1,5 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Hey%20there,%20I'm%20Harsh!%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20B.Tech%20CS%20Undergrad%20|%20Builder%20&%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/> <a href="https://github.com/harshtrivedi4480-cyber">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Building+Production-Ready+Full-Stack+Web+Applications;React+19+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MySQL;Solving+DSA+Challenges+Daily+with+Clean+Architecture;Turning+Ambitious+Ideas+Into+Lightning-Fast+Products" alt="Typing SVG" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hi%20There,%20I'm%20Harsh!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20Building%20Scalable%20Web%20Apps&descAlignY=62&descSize=18" width="100%"/> <a href="https://github.com/harshtrivedi4480-cyber">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Full-Stack%20Web%20Developer+%7C+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Architecting%20Robust%20APIs+%26%20Lightning-Fast%20UIs;Turning%20Complex%20Problems%20Into%20Production-Ready%20Code" alt="Typing SVG" />
 </a>
 
 
@@ -9,60 +9,55 @@
 
 <img src="https://komarev.com/ghpvc/?username=harshtrivedi4480-cyber&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/harshtrivedi4480-cyber?label=Followers&style=for-the-badge&color=2C5364" alt="followers"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="status"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-brightgreen?style=for-the-badge" alt="role"/>
 <img src="https://img.shields.io/badge/Location-Udaipur,%20India-blueviolet?style=for-the-badge" alt="location"/> </div>   
 
 
 
-🧭 Engineering Philosophy & About Me
+💻 Full-Stack Architecture & About Me
 
 
-"Simplicity is prerequisite for reliability, and performance is a feature, not an afterthought."
+"A great full-stack developer doesn't just write code that works; they design systems that scale securely, render instantly, and delight users."
 
-I am Harsh Trivedi, a dedicated Full-Stack Software Engineer and Computer Science undergraduate at Aravali Institute of Technical Studies, Udaipur. My core passion lies in engineering robust web systems that bridge the gap between elegant user experience and rock-solid backend infrastructure. Unlike standard tutorial developers, I focus heavily on writing production-grade code, designing maintainable database schemas, and handling edge cases like state synchronization, secure authentication flows, and responsive layouts.
+I am Harsh Trivedi, a specialized Full-Stack Web Developer and Computer Science undergraduate at Aravali Institute of Technical Studies, Udaipur. My core expertise lies in bridging client-side interactivity with powerful server-side logic. I engineer end-to-end web solutions featuring type-safe APIs, normalized relational database schemas, secure state management, and modern responsive design.
 
 YAML
 
 
-developer_profile:
+developer_identity:
   name: "Harsh Trivedi"
-  role: "Full-Stack Software Engineer"
-  degree: "B.Tech in Computer Science & Engineering (3rd Year )"
+  primary_role: "Full-Stack Web Developer"
+  education: "B.Tech in Computer Science & Engineering (3rd Year )"
   institution: "Aravali Institute of Technical Studies, Udaipur"
   base: "Udaipur, Rajasthan, India 🇮🇳"
-  core_stack:
-    frontend: ["React 19", "TypeScript", "Tailwind CSS v4", "Vite", "Wouter"]
-    backend: ["Node.js", "Express 4", "tRPC 11", "REST APIs"]
-    database_and_orm: ["MySQL", "TiDB Cloud", "Drizzle ORM"]
-    tooling: ["Git & GitHub", "Docker", "Postman", "Linux", "Vercel"]
-  current_focus: ["Scalable E-Commerce Architecture", "Advanced DSA & System Design", "Optimized Web Performance"]
-  personal_motto: "Code with intent, test with rigor, and ship with uncompromising pride."
+  architecture_specialization:
+    frontend: ["React 19", "TypeScript", "Tailwind CSS v4", "Vite", "Component State Management"]
+    backend: ["Node.js", "Express 4", "tRPC 11 End-to-End Type Safety", "RESTful Architecture"]
+    databases: ["MySQL", "TiDB Cloud Serverless", "Drizzle ORM & Migrations"]
+    devops_and_tools: ["Git & GitHub", "Docker", "Postman API Testing", "Linux", "Vercel Deployments"]
+  coding_philosophy: "Clean architecture, rigorous testing, and zero-compromise product delivery."
 
 
 
-🛠️ Comprehensive Tech Arsenal & Tools
+⚡ Full-Stack Visual Tech Stack
 
 <div align="center">
 
-Languages & Core Web Technologies
+Frontend & UI Engineering
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,java&theme=dark" />
-
-Frontend Frameworks, UI & Styling
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&theme=dark" />
 
 Backend, APIs & Runtime Engines
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
 
-Databases, Cloud & DevOps Tooling
+Databases, Cloud & Developer Tooling
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,docker,linux,vercel,netlify&theme=dark" /> </div>
 
 
 
-📈 Live GitHub Metrics & Activity Dashboard
+📊 GitHub Analytics & Developer Activity
 
 <div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=harshtrivedi4480-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=6C63FF&text_color=c9d1d9&count_private=true"/>
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtrivedi4480-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=c9d1d9"/>
@@ -83,28 +78,28 @@ Databases, Cloud & DevOps Tooling
 
 
 
-🚀 Featured Production-Ready Projects
+🚀 Featured Full-Stack Projects
 
 Project Name
-Description
-Key Tech Stack
-Live Demo / Repo
+Description & Full-Stack Capabilities
+Tech Stack
+Repository
 Veyra E-Commerce Marketplace
-Full-stack production-ready e-commerce platform featuring a Flipkart-inspired catalog, wishlist, slide-out cart drawer, reviews, coupon validation, order tracking timeline, and Vercel deployment readiness.
+Production-grade e-commerce marketplace featuring 54 products across 10 categories, database catalog fallback, slide-out cart drawer, wishlist, star reviews, coupon validation, order tracking, and admin analytics.
 React 19, Tailwind 4, tRPC 11, Drizzle ORM, MySQL (TiDB ), Stripe
-View Repository
+View Repo
 Mini JSON Database Engine
-Lightweight custom database engine for structured JSON querying, indexing, and persistent storage operations built from scratch.
-TypeScript, Node.js, File System API
-View Repository
+Custom lightweight query engine and storage layer built from scratch for indexing and managing structured JSON records in Node.js.
+TypeScript, Node.js, File System
+View Repo
 Finance Tracker Dashboard
-Interactive personal finance and expense analytics web application with real-time charts, category breakdowns, and transaction history.
-React, TypeScript, Tailwind CSS, Recharts
-View Repository
+Interactive personal finance and expense management platform with category analytics, dynamic transaction history, and responsive charts.
+React, TypeScript, Tailwind, Recharts
+View Repo
 Daily Code Practice
-Curated repository tracking daily algorithmic problem solving and data structures implementation across C++, Python, and JavaScript.
+Structured repository for daily algorithmic problem-solving and data structure implementations across C++, Python, and JavaScript.
 C++, Python, JavaScript, DSA
-View Repository
+View Repo
 
 
 
@@ -118,17 +113,6 @@ View Repository
 </a> </div>   
 
 
-
-🎯 Current Build Log & Learning Roadmap
-
-•
-Q1 2026 Focus: Mastering full-stack type safety with tRPC and Drizzle ORM, deploying scalable cloud databases on TiDB Cloud.
-
-•
-Active Exploration: Implementing advanced concurrency patterns in Node.js and exploring micro-services architecture.
-
-•
-Problem Solving: Maintaining a disciplined daily coding streak on data structures, dynamic programming, and system design interviews.
 
 🐍 Contribution Snake Animation
 
@@ -155,7 +139,7 @@ Problem Solving: Maintaining a disciplined daily coding streak on data structure
  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
-⭐️ Thank you for visiting my developer profile! Feel free to explore my repositories, drop a star if you like what you see, and let's connect for exciting software engineering opportunities.
+⭐️ Thank you for visiting my full-stack developer profile! Explore my repositories, drop a star, and let's connect for software engineering opportunities.
 
 </div>
 
